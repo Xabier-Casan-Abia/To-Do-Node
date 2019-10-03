@@ -1,0 +1,15 @@
+{
+  "name": "04-to-do-app",
+  "version": "1.0.0",
+  "description": "To Do App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xabier Casan",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^14.0.0"
+  }
+}
