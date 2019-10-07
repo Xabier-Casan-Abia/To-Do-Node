@@ -1,4 +1,4 @@
-## Multiplication CLI App
+## Multiplication CLI App - Node Course
 
 This is a To Do List CLI app using Node. It can list or create, update and remove tasks in a file.
 
